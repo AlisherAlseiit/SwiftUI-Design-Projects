@@ -45,7 +45,7 @@ struct ContentView: View {
                 Capsule()
                     .foregroundColor(.blue)
                     .frame(width: 100, height: 40)
-                Text("Hello")
+                Text("Hello, World")
                     .foregroundColor(.white)
             }
         }
