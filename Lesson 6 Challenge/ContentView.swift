@@ -24,7 +24,7 @@ struct ContentView: View {
            
             Button(action: { print("Ghost Button")}, label: {
                 
-                Text("Ghost Button")
+                Text("Ghost TH Button")
             })
             .buttonStyle(SecondCusomButtonStyle())
         }
